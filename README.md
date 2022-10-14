@@ -8,7 +8,7 @@
 
 ## Rules :
 
-- To earn Git-For-Geeks goodies, you must **register** and make **four valid pull requests** (PRs) between October 19-29 (in any time zone).
+- To earn Git-For-Geeks goodies, you must **register** and make **4 valid pull requests** (PRs) between October 19-29 (in any time zone).
 - Pull requests can be made in any repository of Git-For-Geeks organizations.
 - Pull requests must be approved by a maintainer of the repository/project to count.
 - If a maintainer reports your pull request as spam or behavior is not in line with the project’s code of conduct, you will be ineligible to participate.
