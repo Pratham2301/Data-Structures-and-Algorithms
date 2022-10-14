@@ -73,7 +73,7 @@ For your PR to count, it must be:
 
 ### FEATURES
 
-1. Beginner-friendly
+1. Beginner-friendly.
 2. Suitable for both newbie and expert programming enthusiasts.
 3. It would help participants who are not familiar with Development but are eager to participate in open source.
 
