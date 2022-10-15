@@ -8,22 +8,27 @@
 | 2 | k-Factorization | https://codeforces.com/problemset/problem/797/A |
 | 3 | Excel Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title/ |
 | 4 | Integer to Roman | https://leetcode.com/problems/integer-to-roman/ |
-|  | Exponentiation II | https://cses.fi/problemset/task/1712 |
-|  | Counting Coprime Pairs | https://cses.fi/problemset/task/2417 |
-|  | Grundy's Game | https://cses.fi/problemset/task/2207 |
+| 5 | Exponentiation II | https://cses.fi/problemset/task/1712 |
+| 6 | Counting Coprime Pairs | https://cses.fi/problemset/task/2417 |
+| 7 | Grundy's Game | https://cses.fi/problemset/task/2207 |
+| 8 | Design Circular Deque | https://leetcode.com/problems/design-circular-deque/ |
+| 9 | Trapping Rain Water II | https://leetcode.com/problems/trapping-rain-water-ii/ |
+| 10 | Longest Increasing Subsequence II | https://leetcode.com/problems/longest-increasing-subsequence-ii/ |
 
 ## Array
 
 | Sr. no | Problem Name | Link |
 | --- | --- | --- |
-|  | At least two greater elements | https://practice.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1 |
-|  | Multiply Matrices | https://practice.geeksforgeeks.org/problems/multiply-matrices/1 |
-|  | Combination Sum | https://leetcode.com/problems/combination-sum/ |
-|  | 4Sum | https://leetcode.com/problems/4sum/ |
-|  | MO’s Algorithm | https://practice.geeksforgeeks.org/problems/interesting-queries4742/1 |
-|  | Break a Palindrome | https://leetcode.com/problems/break-a-palindrome/ |
-|  |  | https://leetcode.com/problems/integer-to-roman |
-
+| 1 | At least two greater elements | https://practice.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1 |
+| 2 | Multiply Matrices | https://practice.geeksforgeeks.org/problems/multiply-matrices/1 |
+| 3 | Combination Sum | https://leetcode.com/problems/combination-sum/ |
+| 4 | 4Sum | https://leetcode.com/problems/4sum/ |
+| 5 | MO’s Algorithm | https://practice.geeksforgeeks.org/problems/interesting-queries4742/1 |
+| 6 | Break a Palindrome | https://leetcode.com/problems/break-a-palindrome/ |
+| 7 |  | https://leetcode.com/problems/integer-to-roman |
+| 8 | Next Greater Element II | https://leetcode.com/problems/next-greater-element-ii/ |
+| 9 | Compilers and parsers | https://www.codechef.com/problems/COMPILER |
+| 10 | MMASS - Mass of Molecule | https://www.spoj.com/problems/MMASS/ |
 
 ## LinkedList
 
@@ -71,39 +76,3 @@
 | 9 | Trapping Rain Water II | https://leetcode.com/problems/trapping-rain-water-ii/ |
 | 10 | Longest Increasing Subsequence II | https://leetcode.com/problems/longest-increasing-subsequence-ii/ |
 | 11 | Minimum Number of K Consecutive Bit Flips | https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/ |
-
-## Trees
-
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-## Graphs
-
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-## Tries
-
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-## Miscellaneous
-
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
