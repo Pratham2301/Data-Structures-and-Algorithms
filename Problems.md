@@ -76,10 +76,10 @@
 
 | Sr. no | Problem Name | Link |
 | --- | --- | --- |
-| 1 | Implement Linked List | C - https://leetcode.com/problems/design-linked-list/ |
-| 2 | Implement Linked List  | C++ - https://leetcode.com/problems/design-linked-list/ |
-| 3 | Implement Linked List  | JAVA - https://leetcode.com/problems/design-linked-list/ |
-| 4 | Implement Linked List  | PYTHON - https://leetcode.com/problems/design-linked-list/ |
+| 1 | Implement Linked List in c | https://leetcode.com/problems/design-linked-list/ |
+| 2 | Implement Linked List in c++ | https://leetcode.com/problems/design-linked-list/ |
+| 3 | Implement Linked List in java | https://leetcode.com/problems/design-linked-list/ |
+| 4 | Implement Linked List in python | https://leetcode.com/problems/design-linked-list/ |
 | 5 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list/ |
 | 6 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii/ |
 | 7 | Reverse a Linked List in groups | https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1 |
