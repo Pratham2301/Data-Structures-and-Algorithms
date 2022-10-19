@@ -37,12 +37,12 @@
 | 14 | Sort the Matrix Diagonally | https://leetcode.com/problems/sort-the-matrix-diagonally/ |
 | 15 | Subsets II | https://leetcode.com/problems/subsets-ii/ |
 | 16 | Range Sum Query - Mutable | https://leetcode.com/problems/range-sum-query-mutable/ |
-| 17 |  |  |
-| 18 |  |  |
-| 19 |  |  |
-| 20 |  |  |
-| 21 |  |  |
-| 22 | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water/ |
+| 17 | Minimum Path Sum | https://leetcode.com/problems/minimum-path-sum/ |
+| 18 | Design an ATM Machine | https://leetcode.com/problems/design-an-atm-machine/ |
+| 19 | Next Permutation | https://leetcode.com/problems/next-permutation/ |
+| 20 | Merge Intervals | https://leetcode.com/problems/merge-intervals/ |
+| 21 | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water/ |
+| 22 | Trapping Rain Water II | https://leetcode.com/problems/trapping-rain-water-ii/ |
 | 23 | MO’s Algorithm | https://practice.geeksforgeeks.org/problems/interesting-queries4742/1 |
 | 24 | Sudoku Solver | https://leetcode.com/problems/sudoku-solver/ |
 | 25 | Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
@@ -51,25 +51,26 @@
 
 | Sr. no | Problem Name | Link |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 1 |  |  |
+| 2 |  |  |
+| 3 |  |  |
+| 4 |  |  |
+| 5 |  |  |
+| 6 |  |  |
+| 7 |  |  |
+| 8 |  |  |
+| 9 |  |  |
+| 10 |  |  |
+| 11 |  |  |
+| 12 |  |  |
+| 13 |  |  |
+| 14 |  |  |
+| 15 |  |  |
+| 16 |  |  |
+| 17 |  |  |
+| 18 |  |  |
+| 19 |  |  |
+| 20 |  |  |
 
 ## LinkedList
 
@@ -178,7 +179,15 @@
 | 24 | Network delay time | https://leetcode.com/problems/network-delay-time/ |
 | 25 | Largest Component Size by Common Factor | https://leetcode.com/problems/largest-component-size-by-common-factor/ |
 
+## Dynamic Programming
 
+| Sr. no | Problem Name | Link |
+| --- | --- | --- |
+| 1 | Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/ |
+| 5 | Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
+| 6 | Best Time to Buy and Sell Stock II | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ |
+| 7 | Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ |
+| 8 | Best Time to Buy and Sell Stock IV | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/ |
 
 ## Sorting and Searching
 
