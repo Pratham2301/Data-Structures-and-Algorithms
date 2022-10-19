@@ -48,7 +48,7 @@ For your PR to count, it must be:
 7. Make a pull request and you are done
 8. Note : if maintainer has suggested changes, do that, otherwise your request won't be considered
 
-**Keep Checking leaderBoard to know whether your PR is accepted or not**
+**Keep Checking leaderBoard to know whether your PR is accepted or not : https://adorable-scone-a2f25a.netlify.app/**
 
 ## Things you can contribute to
 
