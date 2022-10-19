@@ -44,37 +44,59 @@ For your PR to count, it must be:
 
 ## Steps For Contribution
 ```
-1. Fork the repository
+- Chose any problem from Problems List
 
-2. In the forked repo, Create a Branch of your user_name from the main branch {ex: branch name - Pratham2301}
+- Create issue, asking for assigning that problem to you
 
-3. clone the repository on your local machine
+- Wait till that problem is assigned to you
 
-4. Make sure you are doing changes in branch of your name only (Folder name - Mathematics) (File name - 1_Paint_the_Numbers.cpp)
+- Fork this repository
 
-5. Make folder with folder name as Problem Tag name
+- In the forked repo, Create a Branch of your user_name from the main branch {ex: branch name - Pratham2301}
+
+- clone the repository on your local machine
+
+- Make sure you are doing changes in branch of your name only (Folder name - Mathematics) (File name - 1_Paint_the_Numbers.cpp)
+
+- Make folder with folder name as Problem Tag name
     ex: Mathematics, Trees, Graphs, Arrays......
     
-6. Add code in a file named as ProblemNumber_ProblemName.extension
+- Add code in a file named as ProblemNumber_ProblemName.extension
     ex: 1_Paint_the_Numbers.cpp, 1_Paint_the_Numbers.py
     
-7. Push changes on GitHub
+- Push changes on GitHub
 
-8. Make a pull request and you are done
+- Make a pull request and you are done
 
-9. Note : if maintainer has suggested changes, do that, otherwise your request won't be considered
+- Note : if maintainer has suggested changes, do that, otherwise your request won't be considered
 ```
-**Keep Checking leaderBoard to know whether your PR is accepted or not **
 
-Special Note :
+*Keep Checking leaderBoard to know whether your PR is accepted or not*
+
+
+## File Naming Conventions
+```
+Branch Name : Github-Username {ex : Pratham2301}
+Folder Nmae : Problem-Tag-NAME {ex : Arrays}
+File Name : ProblemNumber_ProblemName.extension {ex : 4_Two_Sum.cpp }
+```
+
+
+
+## Special Note :
 ```
 1. If language for any question is specified, do submit PR accordingly.
 
-2. All of your codes should be in same branch named as your github username 
+2. Add explanation in your code, otherwise PR will not be merged
+
+3. All of your codes should be in same branch named as your github username 
    Suppose you are solving 6 problems from this REPO throughout your journey of 10 days, 
    then all of this folders should be in same branch
 
 ```
+
+
+
 ## Things you can contribute to
 
 - Repo contains folders of all the data structures and algorithms topics with pre-addressed questions. You can **add a solution** to a question (present in the README of particular topic folder) that is unanswered.
