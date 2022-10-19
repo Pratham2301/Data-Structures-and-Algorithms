@@ -1,4 +1,4 @@
-# DSA-PROBLEMS-README
+# Problem List
 
 ## Mathematics
 
