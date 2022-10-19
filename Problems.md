@@ -14,30 +14,58 @@
 | 8 | Exponentiation II | https://cses.fi/problemset/task/1712 |
 | 9 | Counting Coprime Pairs | https://cses.fi/problemset/task/2417 |
 | 10 | Grundy's Game | https://cses.fi/problemset/task/2207 |
+| 11 | Integer to Roman | https://leetcode.com/problems/integer-to-roman |
+| 12 | Roman to Integer | https://leetcode.com/problems/roman-to-integer/ |
 
-## Array
+## Arrays
 
 | Sr. no | Problem Name | Link |
 | --- | --- | --- |
-|  | At least two greater elements | https://practice.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1 |
-|  | Multiply Matrices | https://practice.geeksforgeeks.org/problems/multiply-matrices/1 |
-|  | Combination Sum | https://leetcode.com/problems/combination-sum/ |
-|  | 4Sum | https://leetcode.com/problems/4sum/ |
-|  | MO’s Algorithm | https://practice.geeksforgeeks.org/problems/interesting-queries4742/1 |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  | Break a Palindrome | https://leetcode.com/problems/break-a-palindrome/ |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  | Integer to Roman | https://leetcode.com/problems/integer-to-roman |
-|  | Maximum Subarray Sum | https://cses.fi/problemset/task/1643 |
+| 1 | At least two greater elements | https://practice.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1 |
+| 2 | Kth smallest element | https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1 |
+| 3 | Combination Sum | https://leetcode.com/problems/combination-sum/ |
+| 4 | Two Sum | https://leetcode.com/problems/two-sum/ |
+| 5 | 3Sum | https://leetcode.com/problems/3sum/ |
+| 6 | 3Sum Closest | https://leetcode.com/problems/3sum-closest/ |
+| 7 | 4Sum | https://leetcode.com/problems/4sum/ |
+| 8 | Break a Palindrome | https://leetcode.com/problems/break-a-palindrome/ |
+| 9 | Multiply Matrices | https://practice.geeksforgeeks.org/problems/multiply-matrices/1 |
+| 10 | Subarray with given sum | https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1 |
+| 11 | Union of two arrays | https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1 |
+| 12 | Maximum Subarray Sum | https://cses.fi/problemset/task/1643 |
+| 13 | Longest consecutive subsequence | https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1 |
+| 14 | Sort the Matrix Diagonally | https://leetcode.com/problems/sort-the-matrix-diagonally/ |
+| 15 | Subsets II | https://leetcode.com/problems/subsets-ii/ |
+| 16 | Range Sum Query - Mutable | https://leetcode.com/problems/range-sum-query-mutable/ |
+| 17 |  |  |
+| 18 |  |  |
+| 19 |  |  |
+| 20 |  |  |
+| 21 |  |  |
+| 22 | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water/ |
+| 23 | MO’s Algorithm | https://practice.geeksforgeeks.org/problems/interesting-queries4742/1 |
+| 24 | Sudoku Solver | https://leetcode.com/problems/sudoku-solver/ |
+| 25 | Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
 
 ## Strings
 
 | Sr. no | Problem Name | Link |
 | --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -124,28 +152,33 @@
 
 | Sr. no | Problem Name | Link |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 1 | BFS of graph in c | https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1 |
+| 2 | BFS of graph in c++ | https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1 |
+| 3 | BFS of graph in java | https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1 |
+| 4 | BFS of graph in python | https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1 |
+| 5 | DFS of Graph in c | https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1 |
+| 6 | DFS of Graph in c++ | https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1 |
+| 7 | DFS of Graph in java | https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1 |
+| 8 | DFS of Graph in python | https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1 |
+| 9 | Print adjacency list | https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1 |
+| 10 | Detect Cycle using DSU | https://practice.geeksforgeeks.org/problems/detect-cycle-using-dsu/1 |
+| 11 | Is Graph Bipartite? | https://leetcode.com/problems/is-graph-bipartite/ |
+| 12 | Find the number of islands | https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1 |
+| 13 | Flood fill Algorithm | https://practice.geeksforgeeks.org/problems/flood-fill-algorithm1856/1 |
+| 14 | Implementing Dijkstra Algorithm | https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1 |
+| 15 | Kosaraju's Algo | https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1 |
+| 16 | Build a Matrix With Conditions | https://leetcode.com/problems/build-a-matrix-with-conditions/ |
+| 17 | Longest Increasing Path in a Matrix | https://leetcode.com/problems/longest-increasing-path-in-a-matrix/ |
+| 18 | Shortest Path by Removing K walls | https://practice.geeksforgeeks.org/problems/shortest-path-by-removing-k-walls/1 |
+| 19 | Find number of closed islands | https://practice.geeksforgeeks.org/problems/find-number-of-closed-islands/1 |
+| 20 | Longest Cycle in a Graph | https://leetcode.com/problems/longest-cycle-in-a-graph/ |
+| 21 | Min Cost to Connect All Points by prims | https://leetcode.com/problems/min-cost-to-connect-all-points/ |
+| 22 | Min Cost to Connect All Points by kruskal | https://leetcode.com/problems/min-cost-to-connect-all-points/ |
+| 23 | Sequence Reconstruction | • https://leetcode.com/problems/sequence-reconstruction/ |
+| 24 | Network delay time | https://leetcode.com/problems/network-delay-time/ |
+| 25 | Largest Component Size by Common Factor | https://leetcode.com/problems/largest-component-size-by-common-factor/ |
 
-## Tries
 
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-## Dynamic Programming
-
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
 ## Sorting and Searching
 
@@ -171,12 +204,3 @@
 | 18 | Banana | https://codeforces.com/contest/335/problem/A |
 | 19 | The Rank | https://codeforces.com/problemset/problem/1017/A |
 | 20 | Concert Tickets | https://cses.fi/problemset/task/1091 |
-
-## Miscellaneous
-
-| Sr. no | Problem Name | Link |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
