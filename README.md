@@ -16,7 +16,7 @@
 For your PR to count, it must be:
 
 - Submitted in a `Git-for-Geeks` repository
-- The PR should be labeled as `gitforgeeks-accepted` by a maintainer.
+- The PR should be labeled as `git-for-geeks` by a maintainer.
 
 ---
 
