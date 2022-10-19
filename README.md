@@ -77,7 +77,7 @@ For your PR to count, it must be:
 ## File Naming Conventions
 ```
 Branch Name : Github-Username {ex : Pratham2301}
-Folder Nmae : Problem-Tag-NAME {ex : Arrays}
+Folder Name : Problem-Tag-NAME {ex : Arrays}
 File Name : ProblemNumber_ProblemName.extension {ex : 4_Two_Sum.cpp }
 ```
 
