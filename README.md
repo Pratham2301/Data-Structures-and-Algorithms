@@ -37,19 +37,44 @@ For your PR to count, it must be:
 - While adding any content, it should be inside its appropriate directory
 - If there is any inaccurate solution, create an issue!
 
-## How to get started
+## Important Links
 
+- Problems : https://github.com/Git-For-Geeks/Data-Structures-and-Algorithms/blob/main/Problems.md
+- LeaderBoard : https://adorable-scone-a2f25a.netlify.app/
+
+## Steps For Contribution
+```
 1. Fork the repository
-2. In the forked repo, Create a Branch of your user_name from the main branch
+
+2. In the forked repo, Create a Branch of your user_name from the main branch {ex: branch name - Pratham2301}
+
 3. clone the repository on your local machine
-4. make sure you are doing changes in branch of your name only
-5. Add code
-6. push changes on GitHub
-7. Make a pull request and you are done
-8. Note : if maintainer has suggested changes, do that, otherwise your request won't be considered
 
-**Keep Checking leaderBoard to know whether your PR is accepted or not : https://adorable-scone-a2f25a.netlify.app/**
+4. Make sure you are doing changes in branch of your name only (Folder name - Mathematics) (File name - 1_Paint_the_Numbers.cpp)
 
+5. Make folder with folder name as Problem Tag name
+    ex: Mathematics, Trees, Graphs, Arrays......
+    
+6. Add code in a file named as ProblemNumber_ProblemName.extension
+    ex: 1_Paint_the_Numbers.cpp, 1_Paint_the_Numbers.py
+    
+7. Push changes on GitHub
+
+8. Make a pull request and you are done
+
+9. Note : if maintainer has suggested changes, do that, otherwise your request won't be considered
+```
+**Keep Checking leaderBoard to know whether your PR is accepted or not **
+
+Special Note :
+```
+1. If language for any question is specified, do submit PR accordingly.
+
+2. All of your codes should be in same branch named as your github username 
+   Suppose you are solving 6 problems from this REPO throughout your journey of 10 days, 
+   then all of this folders should be in same branch
+
+```
 ## Things you can contribute to
 
 - Repo contains folders of all the data structures and algorithms topics with pre-addressed questions. You can **add a solution** to a question (present in the README of particular topic folder) that is unanswered.
@@ -58,16 +83,9 @@ For your PR to count, it must be:
 - First, **Solve issues** raised by other people or yourself.
 - **Well-documented** source code with detailed explanations provides a valuable resource for educators and students alike.
 
-## Steps For Contribution
 
-```
-1. Fork this repo
-2. Star this repo
-3. Add a file ( txt/cpp ) inside appropriate folder
-4. commit the code
-5. Make pull request
 
-```
+
 
 ---
 
