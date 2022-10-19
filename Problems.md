@@ -51,26 +51,26 @@
 
 | Sr. no | Problem Name | Link |
 | --- | --- | --- |
-| 1 |  |  |
-| 2 |  |  |
-| 3 |  |  |
-| 4 |  |  |
-| 5 |  |  |
-| 6 |  |  |
-| 7 |  |  |
-| 8 |  |  |
-| 9 |  |  |
-| 10 |  |  |
-| 11 |  |  |
-| 12 |  |  |
-| 13 |  |  |
-| 14 |  |  |
-| 15 |  |  |
-| 16 |  |  |
-| 17 |  |  |
-| 18 |  |  |
-| 19 |  |  |
-| 20 |  |  |
+| 1 | Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters/ |
+| 2 | Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/ |
+| 3 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix/ |
+| 4 | Cells in a Range on an Excel Sheet | https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/ |
+| 5 | Excel Sheet Column Number | https://leetcode.com/problems/excel-sheet-column-number/ |
+| 6 | Excel Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title/ |
+| 7 | Verifying an Alien Dictionary | https://leetcode.com/problems/verifying-an-alien-dictionary/ |
+| 8 | Count Binary Substrings | https://leetcode.com/problems/count-binary-substrings/ |
+| 9 | Reformat The String | https://leetcode.com/problems/reformat-the-string/ |
+| 10 | Longest Ideal Subsequence | https://leetcode.com/problems/longest-ideal-subsequence/ |
+| 11 | Solve the Equation | https://leetcode.com/problems/solve-the-equation/ |
+| 12 | Longest Substring with At Least K Repeating Characters | https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/ |
+| 13 | Restore IP Addresses | https://leetcode.com/problems/restore-ip-addresses/ |
+| 14 | Last Substring in Lexicographical Order | https://leetcode.com/problems/last-substring-in-lexicographical-order/ |
+| 15 | Strong Password Checker | https://leetcode.com/problems/strong-password-checker/ |
+| 16 | Find the Shortest Superstring | https://leetcode.com/problems/find-the-shortest-superstring/ |
+| 17 | Text Justification | https://leetcode.com/problems/text-justification/ |
+| 18 | Design a Text Editor | https://leetcode.com/problems/design-a-text-editor/ |
+| 19 | Integer to English Words | https://leetcode.com/problems/integer-to-english-words/ |
+| 20 | Implement Trie (Prefix Tree) | https://leetcode.com/problems/implement-trie-prefix-tree/ |
 
 ## LinkedList
 
@@ -184,10 +184,15 @@
 | Sr. no | Problem Name | Link |
 | --- | --- | --- |
 | 1 | Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/ |
+| 2 | Generate Parentheses | https://leetcode.com/problems/generate-parentheses/ |
+| 3 | Coin Change | https://leetcode.com/problems/coin-change/ |
+| 4 | Coin Change II | https://leetcode.com/problems/coin-change-ii/ |
 | 5 | Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
 | 6 | Best Time to Buy and Sell Stock II | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ |
 | 7 | Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ |
 | 8 | Best Time to Buy and Sell Stock IV | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/ |
+| 9 | Longest Valid Parentheses | https://leetcode.com/problems/longest-valid-parentheses/ |
+| 10 | Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching/ |
 
 ## Sorting and Searching
 
