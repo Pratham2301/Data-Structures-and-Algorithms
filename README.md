@@ -128,6 +128,9 @@ File Name : ProblemNumber_ProblemName.extension {ex : 4_Two_Sum.cpp }
 
 ---
 
+- Author - Pratham Rajbhoj (@Pratham2301)
+- Contact - rajbhojpr@rknec.edu
+
 ## Contributors
 <a href="https://github.com/Git-For-Geeks/DATA-STRUCTURES-AND-ALGORITHMS/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Git-For-Geeks/DATA-STRUCTURES-AND-ALGORITHMS" />
