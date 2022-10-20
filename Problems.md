@@ -14,8 +14,7 @@
 | 8 | Exponentiation II | https://cses.fi/problemset/task/1712 |
 | 9 | Counting Coprime Pairs | https://cses.fi/problemset/task/2417 |
 | 10 | Grundy's Game | https://cses.fi/problemset/task/2207 |
-| 11 | Integer to Roman | https://leetcode.com/problems/integer-to-roman |
-| 12 | Roman to Integer | https://leetcode.com/problems/roman-to-integer/ |
+| 11 | Roman to Integer | https://leetcode.com/problems/roman-to-integer/ |
 
 ## Arrays
 
